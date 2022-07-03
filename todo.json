@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "924449eb-069b-46ba-a0e4-3cbdd1211bd3",
+      "title": "hii",
+      "status": true
+    },
+    {
+      "id": "0ba4dbbf-b7ea-4c6c-b7e6-bb934a93ec72",
+      "title": "Hello",
+      "status": false
+    },
+    {
+      "id": "12a88a0c-67c8-4b1c-9e63-f5cfffbf0ffa",
+      "title": "hello",
+      "status": true
+    }
+  ]
+}
